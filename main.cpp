@@ -22,8 +22,8 @@ int main() {
     cin >> ducknum;
 
     for (int i = 0; i < ducknum; i++) { 
-        cout << "                __     " << endl; // TODO: student 1 may change this line and may add additional lines immediately above
-        cout << "              <(o )___-" << endl; // student 3(1) may change this line and add additional lines between this line and immediately below
+        cout << "                              __     " << endl; // TODO: student 1 may change this line and may add additional lines immediately above
+        cout << "              <(o )___-     <(o )___-" << endl; // student 3(1) may change this line and add additional lines between this line and immediately below
         cout << "               ( .__> /      ( .__> /" << endl; // student 3(2) may change this line
         cout << "                `----'        `----' " << endl; // TODO student 2 may change this line and may add lines below
         cout << "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~" << endl;
